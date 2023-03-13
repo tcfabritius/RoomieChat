@@ -5,3 +5,5 @@ Roomiechat is Django app training project.
 3. run "pip install -r requirements.txt"
 4. run "python manage.py run server"
 5. Link to page is visible on command line.
+
+LIVE PREVIEWS NOT WORKING IN VERCEL OR ANYWHERE.
